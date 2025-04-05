@@ -1,0 +1,13 @@
+EXPORTS
+    sha384_buffer @1
+    sha384_finish_ctx @2
+    sha384_init_ctx @3
+    sha384_read_ctx @4
+    sha384_stream @5
+    sha512_buffer @6
+    sha512_finish_ctx @7
+    sha512_init_ctx @8
+    sha512_process_block @9
+    sha512_process_bytes @10
+    sha512_read_ctx @11
+    sha512_stream @12
